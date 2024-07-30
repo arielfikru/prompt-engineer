@@ -20,7 +20,7 @@ As an AI assistant, your task is to convert a given HTML content into multiple m
 
 7. Maintain the original structure and hierarchy of the information as much as possible.
 
-8. If there are images in the HTML, include placeholder text for them in the markdown, describing what the image represents.
+8. If there are images in the HTML, don't include placeholder text for them in the markdown.
 
 9. For any interactive elements in the HTML (like dropdown menus or tabs), describe their functionality in the markdown.
 
